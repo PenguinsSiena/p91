@@ -1,0 +1,63 @@
+#body{
+    background-image: url("background-image.jpg");
+}
+
+#h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 55px;
+}
+
+#div{
+   background-color: rgb(255, 255, 255);
+   width:33%;
+   border-radius: 5px;
+}
+
+#player1_name_input{
+    border-radius: 15px;
+    font-family: bold;
+}
+
+#player2_name_input{
+    border-radius: 15px;
+    font-family: bold;
+}
+
+#btn{
+    border-radius: 15px;
+    font-family: bold;
+    border-color: white;
+    background: rgb(227,24,205);
+    background: linear-gradient(90deg, rgba(227,24,205,1) 25%, rgba(35,35,196,1) 100%, rgba(2,202,252,1) 100%, rgba(34,40,198,1) 100%, rgba(0,212,255,1) 100%);
+}
+
+h3{
+    font-family: bold;
+}
+ 
+h5{
+    font-family: bold;
+}
+#output
+{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid rgb(92, 14, 100);
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+#pg2{
+    background: rgb(227,24,205);
+    background: linear-gradient(90deg, rgba(227,24,205,1) 25%, rgba(35,35,196,1) 100%, rgba(2,202,252,1) 100%, rgba(34,40,198,1) 100%, rgba(0,212,255,1) 100%);
+}
+#no1{
+  width: 60%;  
+}
+
+#no2
+{
+    width: 60%;
+}
+
+
